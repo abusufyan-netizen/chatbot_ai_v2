@@ -18,7 +18,7 @@ body, .stApp { background-color:#0e1117; color:#fafafa; }
 </style>
 """, unsafe_allow_html=True)
 
-MODEL_PATH = os.path.join('model','digit_recognition_model(1).keras')
+MODEL_PATH = os.path.join('model','digit_recognition_model (1).keras')
 DATA_DIR = 'data'
 CORR_DIR = os.path.join(DATA_DIR, 'corrections')
 MANUAL_DIR = os.path.join(DATA_DIR, 'manual_data')
