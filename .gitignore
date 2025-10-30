@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+model/digit_recognition_model.keras
+data/
+.streamlit/secrets.toml
